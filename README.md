@@ -20,4 +20,5 @@ Este projeto é um chatbot interativo em Python que utiliza inteligência artifi
 * **google-genai**
 * **google-adk**
 
-  
+## Demonstração 
+![MeuAssistenteDeCarreira](https://github.com/user-attachments/assets/8e03a7ab-e73f-4433-a673-53449a21414d)
