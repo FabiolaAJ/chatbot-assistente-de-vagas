@@ -9,6 +9,7 @@ Este projeto é um chatbot interativo em Python que utiliza inteligência artifi
 * **Dicas de Preparação Personalizadas:** Fornece conselhos específicos para currículo, carta de apresentação, perfil online e entrevistas, adaptados a cada vaga.
 * **Busca Iterativa:** Permite realizar múltiplas buscas sem reiniciar o programa.
 * **Validação de Entrada:** Garante que informações essenciais (profissão, área, senioridade) sejam fornecidas.
+* **Suporte a Dúvidas:** Permite que o usuário faça perguntas sobre o tema.
 * **Experiência de Usuário Amigável:** Incorpora mensagens claras e emoticons para uma interação mais agradável.
 
 ## Pré-requisitos
