@@ -1,20 +1,20 @@
 # 🤖 Seu Assistente Inteligente de Carreira: Encontre Vagas e Prepare-se para o Sucesso! 🚀
 
-Este projeto é um chatbot interativo que utiliza Python e Google Gemini IA, criado para ser seu parceiro na jornada de busca por novas oportunidades de emprego! Com agentes de IA trabalhando nos bastidores, ele vasculha a internet através da ferramenta de `google-search` do Gemini e te entrega dicas personalizadas para você conquistar a vaga dos sonhos.
+Este projeto é um chatbot interativo que utiliza Python e Google Gemini IA, criado para ser seu parceiro na jornada de busca por novas oportunidades de emprego! Com agentes de IA trabalhando nos bastidores, ele vasculha a internet através da ferramenta de `google-search` do Gemini, te entrega dicas personalizadas para você conquistar a vaga dos sonhos e também está pronto para tirar suas dúvidas!
 
 
 ## ✨ O Que Você Pode Fazer?
 
-* **🔍 Busca Inteligente de Vagas:** Encontra até 5 vagas relevantes (profissão, área, senioridade) via Google Search.
+* **🔍 Busca Inteligente de Vagas:** Encontra até 5 vagas relevantes de acordo com as informações disponibilizadas pelo usuário (profissão, área, senioridade) via Google Search.
 * **📄 Informações Detalhadas:** Exibe título, empresa, localização (se disponível), descrição, requisitos e link da vaga.
 * **🎯 Dicas de Preparação Personalizadas:** Oferece conselhos para currículo, carta, perfil online e entrevistas, adaptados à vaga.
-* **🔄 Buscas Sem Limites:** Permite múltiplas buscas sem reiniciar.
-* **✅ Informações Precisas:** Garante o fornecimento de dados essenciais para a busca.
-* **❓ Tire Suas Dúvidas:** Responde a perguntas sobre busca de vagas e preparação.
-* **😊 Conversa Amigável:** Interação leve e intuitiva com mensagens claras e emoticons.
+* **🔄 Buscas Sem Limites:** Continue explorando! Você pode realizar quantas buscas de vagas quiser sem precisar reiniciar o programa..
+* **✅ Informações Precisas:** Garante o fornecimento de dados essenciais para a busca através da verificação de campo obrigatório.
+* **❓ Tire Suas Dúvidas:** Tem alguma pergunta sobre o processo de busca de vagas ou preparação para entrevistas? Nosso assistente está aqui para ajudar!
+* **😊 Conversa Amigável:** Interaja de forma leve e intuitiva com mensagens claras e emoticons que tornam a experiência mais agradável.
 
 
-## 🛠️ Mãos à Obra: Requisitos
+## 🛠️ Mãos à Obra: Requisitos para Começar
 
 Antes de começar:
 
