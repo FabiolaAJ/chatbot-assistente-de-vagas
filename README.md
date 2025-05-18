@@ -2,6 +2,7 @@
 
 Este projeto é um chatbot interativo em Python e Google Gemini IA, criado para ser seu parceiro na jornada de busca por novas oportunidades de emprego! Com agentes de IA trabalhando nos bastidores, ele vasculha a internet através da ferramenta de `google-search` do Gemini e te entrega dicas personalizadas para você conquistar a vaga dos sonhos.
 
+
 ## ✨ O Que Você Pode Fazer com Ele?
 
 * **🔍 Busca de Vagas Inteligente:** Diga adeus a horas de navegação! Nosso chatbot usa o poder do Google Search para encontrar **até 5 vagas super relevantes** para você, com base na sua profissão, área de interesse e nível de experiência.
@@ -22,6 +23,7 @@ Este projeto é um chatbot interativo em Python e Google Gemini IA, criado para 
 * **❓ Tire Suas Dúvidas:** Tem alguma pergunta sobre o processo de busca de vagas ou preparação para entrevistas? Nosso assistente está aqui para ajudar!
 * **😊 Uma Conversa Amigável:** Interaja de forma leve e intuitiva com mensagens claras e emoticons que tornam a experiência mais agradável.
 
+
 ## 🛠️ Mãos à Obra: Requisitos para Começar
 
 Antes de mergulhar no mundo das novas oportunidades, certifique-se de ter o seguinte instalado e configurado:
@@ -30,11 +32,14 @@ Antes de mergulhar no mundo das novas oportunidades, certifique-se de ter o segu
 * **🔑 Chave de API do Google AI:** Este é o passaporte para a inteligência do nosso chatbot. Você precisará configurar e obter sua chave. Consulte a documentação do Google AI para mais detalhes.
 * **📦 pip:** O gerenciador de pacotes do Python, geralmente instalado com o Python.
 
+
 ### Bibliotecas Essenciais
 
 Instale as seguintes bibliotecas usando o `pip`:
 
-pip install google-genai google-adk 
+%pip -q install google-genai
+!pip install -q google-adk
+
 
 ## 🚀 Demonstração
 ![MeuAssistenteDeCarreira](https://github.com/user-attachments/assets/8e03a7ab-e73f-4433-a673-53449a21414d)
