@@ -38,6 +38,7 @@ Antes de mergulhar no mundo das novas oportunidades, certifique-se de ter o segu
 Instale as seguintes bibliotecas usando o `pip`:
 
 %pip -q install google-genai
+
 !pip install -q google-adk
 
 
