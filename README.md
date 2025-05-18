@@ -1,36 +1,26 @@
 # 🤖 Seu Assistente Inteligente de Carreira: Encontre Vagas e Prepare-se para o Sucesso! 🚀
 
-Este projeto é um chatbot interativo em Python e Google Gemini IA, criado para ser seu parceiro na jornada de busca por novas oportunidades de emprego! Com agentes de IA trabalhando nos bastidores, ele vasculha a internet através da ferramenta de `google-search` do Gemini e te entrega dicas personalizadas para você conquistar a vaga dos sonhos.
+Este projeto é um chatbot interativo que utiliza Python e Google Gemini IA, criado para ser seu parceiro na jornada de busca por novas oportunidades de emprego! Com agentes de IA trabalhando nos bastidores, ele vasculha a internet através da ferramenta de `google-search` do Gemini e te entrega dicas personalizadas para você conquistar a vaga dos sonhos.
 
 
-## ✨ O Que Você Pode Fazer com Ele?
+## ✨ O Que Você Pode Fazer?
 
-* **🔍 Busca de Vagas Inteligente:** Diga adeus a horas de navegação! Nosso chatbot usa o poder do Google Search para encontrar **até 5 vagas super relevantes** para você, com base na sua profissão, área de interesse e nível de experiência.
-* **📄 Informações Detalhadas na Palma da Mão:** Você terá acesso direto a informações cruciais sobre cada vaga:
-    * **💼 Título da vaga**
-    * **🏢 Nome da empresa**
-    * **📍 Localização (se disponível)**
-    * **📝 Descrição da vaga e responsabilidades**
-    * **✅ Requisitos e qualificações desejadas**
-    * **🔗 Link direto para a página de candidatura**
-* **🎯 Dicas de Preparação Sob Medida:** Prepare-se para cada etapa do processo seletivo com conselhos personalizados para:
-    * **📝 Currículo:** Deixe o seu CV impecável e destaque seus pontos fortes.
-    * **✉️ Carta de Apresentação:** Crie mensagens impactantes que abram portas.
-    * **🌐 Perfil Online (LinkedIn, etc.):** Construa uma presença profissional que impressione.
-    * **🗣️ Entrevistas:** Domine as técnicas e responda com confiança.
-* **🔄 Buscas Sem Limites:** Continue explorando! Você pode realizar quantas buscas de vagas quiser sem precisar reiniciar o programa.
-* **✅ Informações Precisas:** Nosso chatbot garante que você forneça as informações essenciais (profissão, área, senioridade) para uma busca eficaz.
-* **❓ Tire Suas Dúvidas:** Tem alguma pergunta sobre o processo de busca de vagas ou preparação para entrevistas? Nosso assistente está aqui para ajudar!
-* **😊 Uma Conversa Amigável:** Interaja de forma leve e intuitiva com mensagens claras e emoticons que tornam a experiência mais agradável.
+* **🔍 Busca Inteligente de Vagas:** Encontra até 5 vagas relevantes (profissão, área, senioridade) via Google Search.
+* **📄 Informações Detalhadas:** Exibe título, empresa, localização (se disponível), descrição, requisitos e link da vaga.
+* **🎯 Dicas de Preparação Personalizadas:** Oferece conselhos para currículo, carta, perfil online e entrevistas, adaptados à vaga.
+* **🔄 Buscas Sem Limites:** Permite múltiplas buscas sem reiniciar.
+* **✅ Informações Precisas:** Garante o fornecimento de dados essenciais para a busca.
+* **❓ Tire Suas Dúvidas:** Responde a perguntas sobre busca de vagas e preparação.
+* **😊 Conversa Amigável:** Interação leve e intuitiva com mensagens claras e emoticons.
 
 
-## 🛠️ Mãos à Obra: Requisitos para Começar
+## 🛠️ Mãos à Obra: Requisitos
 
-Antes de mergulhar no mundo das novas oportunidades, certifique-se de ter o seguinte instalado e configurado:
+Antes de começar:
 
-* **🐍 Python:** Versão 3.6 ou superior. Você pode baixá-lo em [https://www.python.org/downloads/](https://www.python.org/downloads/).
-* **🔑 Chave de API do Google AI:** Este é o passaporte para a inteligência do nosso chatbot. Você precisará configurar e obter sua chave. Consulte a documentação do Google AI para mais detalhes.
-* **📦 pip:** O gerenciador de pacotes do Python, geralmente instalado com o Python.
+* **🐍 Python:** Versão 3.6+. Baixe em [https://www.python.org/downloads/](https://www.python.org/downloads/).
+* **🔑 Chave de API Google AI:** Necessária para a inteligência do chatbot. Consulte a documentação do Google AI.
+* **📦 pip:** Gerenciador de pacotes Python (geralmente instalado com Python).
 
 
 ### Bibliotecas Essenciais
